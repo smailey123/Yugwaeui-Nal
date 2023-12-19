@@ -1,0 +1,28 @@
+h1{
+    text-align:center;
+    color:#ffffff ;
+}
+.h1{
+    background-color:#BC5FCC ;
+}
+.h12{
+    background-color:#AD90FF ;
+}
+.h13{
+    background-color:#B75CFF ;
+}
+.h14{
+    background-color: #7F30FF;
+}
+body{
+    background-color: #E6DEF4;
+}
+img{
+    height: 300px;
+}
+table{
+    border:6px inset #936cff
+}
+td{
+    border:1px solid #000000;   
+}
